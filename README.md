@@ -33,4 +33,4 @@ For developers interested in building upon this project, consider the following 
 ## Screenshots
 
 Here are some visuals demonstrating the project’s features:
-![Main Window](screen1.png)
+![Main Window](screen1.jpg)
