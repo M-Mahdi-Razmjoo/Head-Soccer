@@ -33,4 +33,10 @@ For developers interested in building upon this project, consider the following 
 ## Screenshots
 
 Here are some visuals demonstrating the project’s features:
+![Screen1](https://github.com/user-attachments/assets/dc585ae5-fcc5-4d7c-9792-f8f6467868fc)
 
+![Screen2](https://github.com/user-attachments/assets/ead9997c-72d7-465c-9b72-178c73cb0770)
+
+![Screen3](https://github.com/user-attachments/assets/32571ea7-dc02-4afc-a487-1d89fca56ec8)
+
+![Screen4](https://github.com/user-attachments/assets/0b57b73b-5519-43bc-8faf-87303b2f75b4)
